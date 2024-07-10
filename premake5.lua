@@ -1,4 +1,4 @@
-project "fmt"
+project "spdlog"
 	kind "StaticLib"
 	language "C++"
 	cppdialect "C++11"
